@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="opencv" />
+          <option value="cv2" />
+          <option value="tictoctoe.digit" />
+          <option value="tictoctoe.button7" />
+          <option value="tictoctoe.button8" />
+          <option value="tictoctoe.button9" />
+          <option value="tictoctoe.sign" />
+          <option value="tictoctoe.mar" />
+          <option value="jarwas.takecomm" />
+          <option value="PDFfrw" />
+          <option value="sample.to_html_pretty" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
